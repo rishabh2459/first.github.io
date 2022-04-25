@@ -4,7 +4,7 @@ import "./App.css";
 const Contact = () => {
   const [data, setData] = useState({
     fullname:"",
-    mobile:"",
+    mobile_no:"",
     email:"",
     message:"",
   });
@@ -37,14 +37,14 @@ const Contact = () => {
             <form onSubmit={formSubmit}>
               <div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Full Name</label>
-                <input type="text" className="form-control" id="exampleFormControlInput1" name="fullname" value={data.fullname} onChange={InputEvent} placeholder="Enter your name" />
+                <input type="text" className="form-control" id="exampleFormControlInput1" name="fullname" value={data.fullname} onChange={InputEvent} placeholder="Enter your name" required/>
               </div>
               <div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Mobile No.</label>
-                <input type="number" className="form-control" id="exampleFormControlInput1" name="mobile no." value={data.mobile} onChange={InputEvent} placeholder="Enter your Mobile No." />
+                <input type="number" className="form-control" id="exampleFormControlInput1" name="mobile no." value={data.mobile} onChange={InputEvent} placeholder="Enter your Mobile No." required/>
               </div><div className="mb-3">
                 <label for="exampleFormControlInput1" className="form-label">Email address</label>
-                <input type="email" className="form-control" id="exampleFormControlInput1" name="email" value={data.email} onChange={InputEvent} placeholder="name@example.com" />
+                <input type="email" className="form-control" id="exampleFormControlInput1" name="email" value={data.email} onChange={InputEvent} placeholder="name@example.com" required/>
               </div>
               <div className="mb-3">
                 <label for="exampleFormControlTextarea1" className="form-label">Message</label>
