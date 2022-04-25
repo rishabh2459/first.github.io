@@ -13,11 +13,12 @@ const Common = (props) => {
                             {props.name}    
                                 <strong className="brand-name text-success"> Lets Do IT </strong>
                             </h1>
-                            <h2 className="my-3 font-monospace text-secondary">
+                            <h4 className="my-3">
                             <p>
-                            We are the team of well trained and motivated bady shaper our aim is to fit maximum people.
+                            We are the team of well trained and motivated body shaper. our aim is to fit maximum people.
                             </p>
-                            </h2>
+                            <p> Our aim is to fit maximum people.</p>
+                            </h4>
                             <div className="mt-3">
                                 <NavLink to={props.visit} className="btn btn-outline-secondary">
                                     {props.btname}
