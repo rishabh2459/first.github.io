@@ -137,8 +137,8 @@ const Footer = () => {
                                     <i className="fas fa-gem me-3"></i>Lets Do It
                                 </h6>
                                 <p>
-                                    Lets Do It !!!We keep you fit
-
+                                    Let's Do It!!!
+                                    We keep you fit!!!
                                     Trusted by more and more Gym freaks
                                 </p>
                             </div>
