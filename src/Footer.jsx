@@ -103,9 +103,9 @@ const Footer = () => {
                 <section>
                     <div>
 
-                        <div className="me-5 d-none d-lg-block">
-                            <span></span>
+                        <div className="me-5 d-none d-lg-block">                            
                         </div>
+                          <span>
                         <div className="social-links mt-3">
                             <NavLink to="#" className="twitter">
                                 <i className="bx bxl-twitter"></i>
@@ -120,6 +120,7 @@ const Footer = () => {
                                 <i className="bx bxl-linkedin"></i>
                             </NavLink>
                         </div>
+                            </span>
                     </div>
                 </section>
 
