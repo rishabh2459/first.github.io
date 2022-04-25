@@ -138,7 +138,9 @@ const Footer = () => {
                                 </h6>
                                 <p>
                                     Let's Do It!!!
+                                 <p>
                                     We keep you fit!!!
+                                 </p>
                                     Trusted by more and more Gym freaks
                                 </p>
                             </div>
