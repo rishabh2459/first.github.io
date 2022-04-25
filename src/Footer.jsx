@@ -139,8 +139,7 @@ const Footer = () => {
                                 <p>
                                     Let's Do It!!!
                                  <p>
-                                    We keep you fit!!!
-                                 </p>
+                                    We keep you fit!!!</p>                               
                                     Trusted by more and more Gym freaks
                                 </p>
                             </div>
