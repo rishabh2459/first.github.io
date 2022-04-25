@@ -150,16 +150,16 @@ const Footer = () => {
                                     We are in
                                 </h6>
                                 <p>
-                                    <a href="https://jhansi.nic.in/" className="text-reset">Jhansi</a>
+                                    <a href="#!" className="text-reset">Jhansi</a>
                                 </p>
                                 <p>
-                                    <a href="https://gwalior.nic.in/en/" className="text-reset">Gwalior</a>
+                                    <a href="#!" className="text-reset">Gwalior</a>
                                 </p>
                                 <p>
-                                    <a href="https://bhopal.nic.in/en/" className="text-reset">Bhopal</a>
+                                    <a href="#!" className="text-reset">Bhopal</a>
                                 </p>
                                 <p>
-                                    <a href="https://portal.delhi.gov.in/" className="text-reset">New Delhi</a>
+                                    <a href="#!" className="text-reset">New Delhi</a>
                                 </p>
                             </div>
 
