@@ -74,7 +74,7 @@ const Choose = () => {
                   <div class="card-body">
                     <h5 class="card-title">Friendly & Experienced</h5>
                     <p class="card-text">
-                      Be guided every step on your health and fitness journey by
+                      Be guided, every step on your health and fitness journey by
                       our knowledgeable, experienced and friendly fitness
                       experts.
                     </p>
