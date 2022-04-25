@@ -15,7 +15,7 @@ const Common = (props) => {
                             </h1>
                             <h4 className="my-3">
                             <p>
-                            We are the team of well trained and motivated body shaper. our aim is to fit maximum people.
+                            We are the team of well trained and motivated body shaper.
                             </p>
                             <p> Our aim is to fit maximum people.</p>
                             </h4>
